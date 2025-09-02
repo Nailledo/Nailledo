@@ -12,7 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently doing my studies in **BUT Informatique**
+ 🔭 I’m currently studying in **BUT Informatique**
+ 
+ 💻 I’m currently working on a little game with many **mini-games** 
  
  🌱 I’m currently learning **frameworks, java, c...**
 
