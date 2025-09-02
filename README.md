@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/Hi 👋, I'm Nailt=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/Hi 👋, I'm NailtFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h1>
 
 
 <h3 align="center">A new student in computer science from France !</h3>
