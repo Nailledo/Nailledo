@@ -14,7 +14,7 @@
  
  🔭 I’m currently studying in **BUT Informatique**
  
- 💻 I’m currently working on a little game with many **mini-games** 
+ 💻 I’m currently working on a little game with many **mini-games** in __java__ 
  
  🌱 I’m currently learning **frameworks, java, c...**
 
