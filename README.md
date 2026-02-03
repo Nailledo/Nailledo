@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=%F0%9F%91%8B%20,%20Nailt%20&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=%Jonathan LECLERC%20,%20( Nailt )%20&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">
