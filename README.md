@@ -40,14 +40,14 @@
 
 ---
 
-### 🌍 À propos de moi
+### À propos de moi
 
-Étudiant en **BUT Informatique** 🤝 Intéressé par les projets collaboratifs et le partage de connaissances  
+Étudiant en **BUT Informatique** Intéressé par les projets collaboratifs et le partage de connaissances  
 Actuellement en train d'apprendre le JavaScript et WordPress
 
 ---
 
-### 🌐 Me contacter
+### Me contacter
 
 <p align="center">
   <b>jonathan10leclerc@gmail.com</b> <br>
