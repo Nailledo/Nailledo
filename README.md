@@ -18,7 +18,7 @@
 ### Stack & Compétences
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,cs,py,c,js,html,css,mysql,postgres,bash,docker,git,unity,vscode,bootstrap,scratch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,cs,py,c,js,html,css,mysql,postgres,bash,git,unity,vscode,bootstrap,scratch&theme=dark" />
 </p>
 
 - ☕ Développement d'applications et jeux en **Java** (Android Studio)
