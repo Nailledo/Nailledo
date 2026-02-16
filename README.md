@@ -9,7 +9,7 @@
 <h3 align="center"> Étudiant en BUT Informatique | France</h3>
 
 <p align="center">
-  Passionné par l'informatique, j'apprend actuellement le JavaScript à travers différents projet <br>
+  Passionné par l'informatique, j'apprends actuellement le JavaScript à travers différents projets <br>
   J'explore de nouveaux frameworks et langages pour renforcer mes compétences techniques.
 </p>
 
@@ -18,15 +18,16 @@
 ### Stack & Compétences
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql,postgres,bash,docker,git,unity,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,cs,py,c,js,html,css,mysql,postgres,bash,docker,git,unity,vscode,bootstrap,scratch&theme=dark" />
 </p>
 
-- ☕ Développement d'applications et jeux en **Java**
-- 🛠️ Programmation système en **C** et scripts **Bash**
+- ☕ Développement d'applications et jeux en **Java** (Android Studio)
+- 🛠️ Programmation système en **C**, **C#** et scripts **Bash**
+- 🐍 Automatisation et scripts en **Python**
 - 🌐 Création de sites web (**HTML**, **CSS**, **JS**, **Bootstrap**, **PHP**)
 - 🐳 Gestion d'environnements avec **Docker**
-- 🗄️ Modélisation de bases de données **SQL** (**MySQL**, **PostgreSQL**,, **PlpgSql**)
-- 🎮 Développement de jeux avec **Unity**
+- 🗄️ Modélisation de bases de données **SQL** (**MySQL**, **PostgreSQL**, **PlpgSql**)
+- 🎮 Développement de jeux avec **Unity** et initiation via **Scratch**
 
 ---
 
@@ -42,7 +43,7 @@
 
 ### À propos de moi
 
-Étudiant en **BUT Informatique** Intéressé par les projets collaboratifs et le partage de connaissances  
+Étudiant en **BUT Informatique** intéressé par les projets collaboratifs et le partage de connaissances  
 Actuellement en train d'apprendre le JavaScript et WordPress
 
 ---
@@ -51,7 +52,7 @@ Actuellement en train d'apprendre le JavaScript et WordPress
 
 <p align="center">
   <b>jonathan10leclerc@gmail.com</b> <br>
-  France - LeHavre
+  France - Le Havre
 </p>
 
 ---
