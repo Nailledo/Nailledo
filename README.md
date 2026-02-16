@@ -21,7 +21,7 @@
 
 - 🌐 **Web :** `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `PHP`
 - 🗄️ **Bases de données :** `MySQL`, `PostgreSQL`, `PlpgSql`
-- ☕ **Logiciel & Mobile :** `Java (Android Studio)`, `C#`, `Python`, `C`
+- ☕ **Applicatif & Mobile :** `Java, Android Studio`, `C#`, `Python`, `C`
 - 🛠️ **Système & Outils :** `Git`, `Docker`, `Bash`, `Unity`
 
 ---
