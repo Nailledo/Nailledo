@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nailt!;Full-Stack+Explorer;JS+Enthusiast&color=9370DB" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nailt!" />
 </h2>
 
 <p align="center">
