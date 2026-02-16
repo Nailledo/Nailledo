@@ -16,13 +16,18 @@
 ### Langages et Logiciels
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,postgres,java,cs,py,c,bash,docker,git,unity,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,postgres,java,cs,py,c,bash,linux,docker,git,unity,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Autodesk_Fusion_360-EA2808?style=flat-square&logo=autodesk&logoColor=white" />
 </p>
 
 - 🌐 **Web :** `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `PHP`
 - 🗄️ **Bases de données :** `MySQL`, `PostgreSQL`, `PlpgSql`
-- ☕ **Applicatif & Mobile :** `Java, Android Studio`, `C#`, `Python`, `C`
-- 🛠️ **Système & Outils :** `Git`, `Docker`, `Bash`, `Unity`
+- ☕ **Applicatif & Mobile :** `Java`, `Android Studio`, `C#`, `Python`, `C`
+- 🛠️ **Système & Outils :** `Linux`, `Git`, `Docker`, `Bash`, `VS Code`
+- 🎨 **Création & Modélisation :** `Fusion 360`, `Unity`, `Scratch`
 
 ---
 
