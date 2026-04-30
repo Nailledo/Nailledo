@@ -23,10 +23,10 @@
   <img src="https://img.shields.io/badge/Autodesk_Fusion_360-EA2808?style=flat-square&logo=autodesk&logoColor=white" />
 </p>
 
-- 🌐 **Web :** `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `PHP`
+- 🌐 **Web :** `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `PHP`, `Laravel`, `Tailwind`, 
 - 🗄️ **Bases de données :** `MySQL`, `PostgreSQL`, `PlpgSql`
 - ☕ **Applicatif & Mobile :** `Java`, `Android Studio`, `C#`, `Python`, `C`
-- 🛠️ **Système & Outils :** `Linux`, `Git`, `Docker`, `Bash`, `VS Code`
+- 🛠️ **Système & Outils :** `Linux`, `Git`, `Docker`, `Bash`, `VS Code`, `Laragon`
 - 🎨 **Création & Modélisation :** `Fusion 360`, `Unity`, `Scratch`
 
 ---
