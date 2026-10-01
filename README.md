@@ -8,7 +8,8 @@
 
 <p align="center">
   <b>Le Havre, France</b> <br>
-  <i>Actuellement en BUT informatique en 2e année </i>
+  <i>Actuellement en BUT informatique en 3e année </i>
+  <i>Je suis également Apprenti dans l'entreprise IES Ingénierie, Port Jérôme-Sur-Seine pour l'année 2026/2027</i>
 </p>
 
 ---
