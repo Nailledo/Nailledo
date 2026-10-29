@@ -1,0 +1,37 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='80' viewBox='0 0 1000 80' role='img' aria-label='Presentation'>
+<style>
+text{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cur{animation:bl 1s step-end infinite}
+@keyframes ty0{0%{transform:translateX(0)}0%{transform:translateX(0)}8%{transform:translateX(547.2px)}16%{transform:translateX(547.2px)}18.8%{transform:translateX(0)}100%{transform:translateX(0)}}
+.ty0{animation:ty0 25s steps(38) infinite}
+@keyframes vi0{0%{opacity:0}0%{opacity:1}18.8%{opacity:0}100%{opacity:0}}
+.vi0{animation:vi0 25s step-end infinite}@keyframes ty1{0%{transform:translateX(0)}20%{transform:translateX(0)}28%{transform:translateX(648px)}36%{transform:translateX(648px)}38.8%{transform:translateX(0)}100%{transform:translateX(0)}}
+.ty1{animation:ty1 25s steps(45) infinite}
+@keyframes vi1{0%{opacity:0}20%{opacity:1}38.8%{opacity:0}100%{opacity:0}}
+.vi1{animation:vi1 25s step-end infinite}@keyframes ty2{0%{transform:translateX(0)}40%{transform:translateX(0)}48%{transform:translateX(648px)}56%{transform:translateX(648px)}58.8%{transform:translateX(0)}100%{transform:translateX(0)}}
+.ty2{animation:ty2 25s steps(45) infinite}
+@keyframes vi2{0%{opacity:0}40%{opacity:1}58.8%{opacity:0}100%{opacity:0}}
+.vi2{animation:vi2 25s step-end infinite}@keyframes ty3{0%{transform:translateX(0)}60%{transform:translateX(0)}68%{transform:translateX(648px)}76%{transform:translateX(648px)}78.8%{transform:translateX(0)}100%{transform:translateX(0)}}
+.ty3{animation:ty3 25s steps(45) infinite}
+@keyframes vi3{0%{opacity:0}60%{opacity:1}78.8%{opacity:0}100%{opacity:0}}
+.vi3{animation:vi3 25s step-end infinite}@keyframes ty4{0%{transform:translateX(0)}80%{transform:translateX(0)}88%{transform:translateX(648px)}96%{transform:translateX(648px)}98.8%{transform:translateX(0)}100%{transform:translateX(0)}}
+.ty4{animation:ty4 25s steps(45) infinite}
+@keyframes vi4{0%{opacity:0}80%{opacity:1}98.8%{opacity:0}100%{opacity:0}}
+.vi4{animation:vi4 25s step-end infinite}
+</style>
+<rect x='14' y='14' width='977' height='58' fill='#ffd23f'/>
+<rect x='3' y='3' width='977' height='58' fill='#f4efe6' stroke='#1a1423' stroke-width='4'/>
+<text x='34' y='42' font-size='24' font-weight='700' fill='#6A0DAD' textLength='22' lengthAdjust='spacing'>&#8594;</text>
+<clipPath id='c0'><rect class='ty0' x='-477.2' y='0' width='547.2' height='80'/></clipPath>
+<text x='70' y='42' font-size='24' font-weight='700' fill='#1a1423' textLength='547.2' lengthAdjust='spacing' clip-path='url(#c0)'>&#201;tudiant en BUT Informatique, 3e ann&#233;e</text>
+<g class='ty0'><g class='vi0'><rect class='cur' x='72' y='16' width='13' height='33' fill='#6A0DAD'/></g></g><clipPath id='c1'><rect class='ty1' x='-578' y='0' width='648' height='80'/></clipPath>
+<text x='70' y='42' font-size='24' font-weight='700' fill='#1a1423' textLength='648' lengthAdjust='spacing' clip-path='url(#c1)'>Futur apprenti chez IES Ing&#233;nierie, 2026/2027</text>
+<g class='ty1'><g class='vi1'><rect class='cur' x='72' y='16' width='13' height='33' fill='#6A0DAD'/></g></g><clipPath id='c2'><rect class='ty2' x='-578' y='0' width='648' height='80'/></clipPath>
+<text x='70' y='42' font-size='24' font-weight='700' fill='#1a1423' textLength='648' lengthAdjust='spacing' clip-path='url(#c2)'>Java, C#, PHP, Python, un peu de tout en fait</text>
+<g class='ty2'><g class='vi2'><rect class='cur' x='72' y='16' width='13' height='33' fill='#6A0DAD'/></g></g><clipPath id='c3'><rect class='ty3' x='-578' y='0' width='648' height='80'/></clipPath>
+<text x='70' y='42' font-size='24' font-weight='700' fill='#1a1423' textLength='648' lengthAdjust='spacing' clip-path='url(#c3)'>Linux, Docker, Git &#8212; et Unity pour le plaisir</text>
+<g class='ty3'><g class='vi3'><rect class='cur' x='72' y='16' width='13' height='33' fill='#6A0DAD'/></g></g><clipPath id='c4'><rect class='ty4' x='-578' y='0' width='648' height='80'/></clipPath>
+<text x='70' y='42' font-size='24' font-weight='700' fill='#1a1423' textLength='648' lengthAdjust='spacing' clip-path='url(#c4)'>Toujours en train d&#8217;apprendre un truc nouveau</text>
+<g class='ty4'><g class='vi4'><rect class='cur' x='72' y='16' width='13' height='33' fill='#6A0DAD'/></g></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='100' viewBox='0 0 1000 100' role='img' aria-label='Merci de votre visite'>
+<defs><clipPath id='cl'><rect x='5' y='5' width='973' height='64'/></clipPath></defs>
+<style>
+text{font-family:'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900}
+@keyframes mq{to{transform:translateX(-924px)}}
+.mq{animation:mq 30s linear infinite}
+</style>
+<rect x='14' y='14' width='977' height='72' fill='#6A0DAD'/>
+<rect x='3' y='3' width='977' height='72' fill='#1a1423' stroke='#1a1423' stroke-width='4'/>
+<g clip-path='url(#cl)'><g class='mq'><text x='0' y='53' font-size='34' fill='#f4efe6' textLength='924' lengthAdjust='spacing'>MERCI DE VOTRE VISITE <tspan fill='#ffd23f'>&#9632;</tspan> &#192; BIENT&#212;T <tspan fill='#ffd23f'>&#9632;</tspan> NAILT <tspan fill='#ffd23f'>&#9632;</tspan> </text><text x='924' y='53' font-size='34' fill='#f4efe6' textLength='924' lengthAdjust='spacing'>MERCI DE VOTRE VISITE <tspan fill='#ffd23f'>&#9632;</tspan> &#192; BIENT&#212;T <tspan fill='#ffd23f'>&#9632;</tspan> NAILT <tspan fill='#ffd23f'>&#9632;</tspan> </text><text x='1848' y='53' font-size='34' fill='#f4efe6' textLength='924' lengthAdjust='spacing'>MERCI DE VOTRE VISITE <tspan fill='#ffd23f'>&#9632;</tspan> &#192; BIENT&#212;T <tspan fill='#ffd23f'>&#9632;</tspan> NAILT <tspan fill='#ffd23f'>&#9632;</tspan> </text></g></g>
+</svg>

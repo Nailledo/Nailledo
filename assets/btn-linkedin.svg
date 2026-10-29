@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='264' height='80' viewBox='0 0 264 80' role='img' aria-label='LinkedIn'>
+<style>
+text{font-family:'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900}
+@keyframes ar{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+.ar{animation:ar 1.4s ease-in-out infinite}
+</style>
+<rect x='11' y='11' width='246' height='62' fill='#1a1423'/>
+<rect x='3' y='3' width='246' height='62' fill='#0a66c2' stroke='#1a1423' stroke-width='4'/>
+<rect x='26' y='18' width='34' height='34' fill='#f4efe6' stroke='#1a1423' stroke-width='3'/><text x='43' y='44' text-anchor='middle' font-size='22' fill='#0a66c2'>in</text>
+<text x='84' y='43' font-size='22' fill='#ffffff' textLength='108' lengthAdjust='spacing'>LinkedIn</text>
+<text class='ar' x='212' y='44' font-size='24' fill='#ffffff' textLength='24' lengthAdjust='spacing'>&#8594;</text>
+</svg>
