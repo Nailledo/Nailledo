@@ -1,6 +1,6 @@
 <img src="./assets/header.svg" alt="Jonathan LECLERC, alias Nailt" width="100%" />
 
-<img src="./assets/typing.svg" alt="Étudiant en BUT Informatique, futur apprenti chez IES Ingénierie" width="100%" />
+<img src="./assets/typing.svg" alt="Étudiant en BUT Informatique, Apprenti chez IES Ingénierie" width="100%" />
 
 <img src="./assets/title-whoami.svg" alt="01 / WHOAMI" width="100%" />
 
