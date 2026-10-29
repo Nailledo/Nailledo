@@ -1,18 +1,12 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='250' height='64' viewBox='0 0 250 64' role='img' aria-label='LinkedIn'>
-<defs>
-<linearGradient id='b' gradientUnits='userSpaceOnUse' x1='0' y1='0' x2='250' y2='0'><stop offset='0' stop-color='#0a66c2'/><stop offset='.5' stop-color='#38bdf8'/><stop offset='1' stop-color='#a855f7'/>
-<animateTransform attributeName='gradientTransform' type='rotate' from='0 125 32' to='360 125 32' dur='4s' repeatCount='indefinite'/></linearGradient>
-<clipPath id='pill'><rect x='4' y='4' width='242' height='56' rx='28'/></clipPath>
-<filter id='gl' x='-20%' y='-40%' width='140%' height='180%'><feGaussianBlur stdDeviation='6'/></filter>
-</defs>
+<svg xmlns='http://www.w3.org/2000/svg' width='264' height='80' viewBox='0 0 264 80' role='img' aria-label='LinkedIn'>
 <style>
-text{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
-.pulse{animation:pu 2.4s ease-in-out infinite}@keyframes pu{0%,100%{opacity:.25}50%{opacity:.7}}
-.shine{animation:sh 3.2s ease-in-out infinite}@keyframes sh{0%{transform:translateX(-120px) skewX(-20deg)}60%,100%{transform:translateX(300px) skewX(-20deg)}}
+text{font-family:'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900}
+@keyframes ar{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+.ar{animation:ar 1.4s ease-in-out infinite}
 </style>
-<rect class='pulse' x='4' y='4' width='242' height='56' rx='28' fill='none' stroke='url(#b)' stroke-width='6' filter='url(#gl)'/>
-<rect x='4' y='4' width='242' height='56' rx='28' fill='#130725' stroke='url(#b)' stroke-width='2.5'/>
-<g clip-path='url(#pill)'><rect class='shine' x='0' y='0' width='40' height='64' fill='#ffffff' fill-opacity='.14'/></g>
-<rect x='30' y='17' width='30' height='30' rx='6' fill='#0a66c2'/><text x='45' y='40' text-anchor='middle' font-size='20' font-weight='800' fill='#fff'>in</text>
-<text x='78' y='39' font-size='20' font-weight='800' fill='#f3e8ff' textLength='104' lengthAdjust='spacing'>LinkedIn</text>
+<rect x='11' y='11' width='246' height='62' fill='#1a1423'/>
+<rect x='3' y='3' width='246' height='62' fill='#0a66c2' stroke='#1a1423' stroke-width='4'/>
+<rect x='26' y='18' width='34' height='34' fill='#f4efe6' stroke='#1a1423' stroke-width='3'/><text x='43' y='44' text-anchor='middle' font-size='22' fill='#0a66c2'>in</text>
+<text x='84' y='43' font-size='22' fill='#ffffff' textLength='108' lengthAdjust='spacing'>LinkedIn</text>
+<text class='ar' x='212' y='44' font-size='24' fill='#ffffff' textLength='24' lengthAdjust='spacing'>&#8594;</text>
 </svg>
