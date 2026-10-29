@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='76' viewBox='0 0 1000 76' role='img' aria-label='WHOAMI'>
+<defs>
+<linearGradient id='g' gradientUnits='userSpaceOnUse' x1='380' y1='0' x2='620' y2='0' spreadMethod='repeat'><stop offset='0' stop-color='#c084fc'/><stop offset='.33' stop-color='#f472b6'/><stop offset='.66' stop-color='#22d3ee'/><stop offset='1' stop-color='#c084fc'/>
+<animateTransform attributeName='gradientTransform' type='translate' from='0 0' to='240 0' dur='4s' repeatCount='indefinite'/></linearGradient>
+<linearGradient id='ln' x1='0' x2='1'><stop offset='0' stop-color='#a855f7' stop-opacity='0'/><stop offset='.5' stop-color='#a855f7'/><stop offset='1' stop-color='#a855f7' stop-opacity='0'/></linearGradient>
+<filter id='glow'><feGaussianBlur stdDeviation='4' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter>
+</defs>
+<style>
+text{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.t{animation:pop 4s ease-in-out infinite}
+@keyframes pop{0%,100%{opacity:.92}50%{opacity:1}}
+</style>
+<g filter='url(#glow)'><text class='t' x='390' y='42' font-size='30' font-weight='800' fill='url(#g)' textLength='220' lengthAdjust='spacing'>[ WHOAMI ]</text></g>
+<rect x='380' y='56' width='240' height='2' rx='1' fill='url(#ln)'/>
+<circle r='4' fill='#fff' filter='url(#glow)'><animateMotion dur='3.2s' repeatCount='indefinite' path='M380,57 H620 H380'/></circle>
+</svg>

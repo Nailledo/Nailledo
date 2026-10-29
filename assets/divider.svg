@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='28' viewBox='0 0 1000 28' role='presentation'>
+<defs>
+<linearGradient id='ln' x1='0' x2='1'><stop offset='0' stop-color='#a855f7' stop-opacity='0'/><stop offset='.3' stop-color='#a855f7'/><stop offset='.5' stop-color='#22d3ee'/><stop offset='.7' stop-color='#f472b6'/><stop offset='1' stop-color='#f472b6' stop-opacity='0'/></linearGradient>
+<filter id='glow'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter>
+</defs>
+<style>.d{transform-origin:500px 14px;animation:sp 3s ease-in-out infinite}@keyframes sp{0%,100%{transform:rotate(45deg) scale(1)}50%{transform:rotate(225deg) scale(1.35)}}</style>
+<rect x='60' y='13' width='880' height='2' rx='1' fill='url(#ln)'/>
+<rect class='d' x='494' y='8' width='12' height='12' fill='#fff' filter='url(#glow)'/>
+<circle r='3.5' cy='14' fill='#fff' filter='url(#glow)'><animateMotion dur='4s' repeatCount='indefinite' path='M60,0 H940 H60'/></circle>
+</svg>
