@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='84' viewBox='0 0 1000 84' role='img' aria-label='02 / STACK'>
+<style>
+text{font-family:'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900}
+@keyframes wg{0%,100%{transform:rotate(-1.6deg)}50%{transform:rotate(.6deg)}}
+.g{transform-origin:6px 60px;animation:wg 5s ease-in-out infinite}
+@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+.bl{animation:bl 1.1s step-end infinite}
+</style>
+<g class='g'>
+<rect x='14' y='20' width='280' height='54' fill='#ffd23f' stroke='#1a1423' stroke-width='4'/>
+<rect x='4' y='10' width='280' height='54' fill='#6A0DAD' stroke='#1a1423' stroke-width='4'/>
+<text x='28' y='47' font-size='30' fill='#f4efe6' textLength='210' lengthAdjust='spacing'>02 / STACK</text>
+<rect class='bl' x='244' y='24' width='14' height='26' fill='#ffd23f'/>
+</g>
+</svg>

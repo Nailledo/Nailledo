@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='264' height='80' viewBox='0 0 264 80' role='img' aria-label='E-mail'>
+<style>
+text{font-family:'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900}
+@keyframes ar{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+.ar{animation:ar 1.4s ease-in-out infinite}
+</style>
+<rect x='11' y='11' width='246' height='62' fill='#1a1423'/>
+<rect x='3' y='3' width='246' height='62' fill='#ffd23f' stroke='#1a1423' stroke-width='4'/>
+<rect x='25' y='21' width='36' height='28' fill='#f4efe6' stroke='#1a1423' stroke-width='3'/><path d='M26,23 L43,38 L60,23' fill='none' stroke='#1a1423' stroke-width='3' stroke-linejoin='round'/>
+<text x='84' y='43' font-size='22' fill='#1a1423' textLength='88' lengthAdjust='spacing'>E-mail</text>
+<text class='ar' x='212' y='44' font-size='24' fill='#1a1423' textLength='24' lengthAdjust='spacing'>&#8594;</text>
+</svg>
