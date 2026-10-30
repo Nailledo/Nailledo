@@ -23,6 +23,18 @@
 <br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sombre/title-parcours.svg">
+  <img src="./assets/clair/title-parcours.svg" alt="Parcours" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sombre/parcours.svg">
+  <img src="./assets/clair/parcours.svg" alt="Parcours : 2024, BUT Informatique 1re année à l'IUT du Havre. 2025, 2e année. 2026, 3e année en alternance (actuellement). 2027, objectif Master." width="100%">
+</picture>
+
+<br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sombre/title-projets.svg">
   <img src="./assets/clair/title-projets.svg" alt="Projets phares" width="100%">
 </picture>
@@ -75,6 +87,20 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sombre/stack.svg">
   <img src="./assets/clair/stack.svg" alt="Web : HTML5, CSS3, JavaScript, Bootstrap, PHP, Laravel, Tailwind, Twig. Bases de données : MySQL, PostgreSQL, PL/pgSQL. Applicatif et mobile : Java, Android Studio, C#, Python, C. Système et outils : Linux, Git, Docker, Bash, VS Code, Laragon. Création et 3D : Fusion 360, Unity, Scratch." width="100%">
 </picture>
+
+<details>
+<summary><b>Détail des compétences</b></summary>
+<br>
+
+| Domaine | Technologies | Usage |
+|---|---|---|
+| **Web** | HTML5 · CSS3 · JavaScript · PHP · Laravel · Twig · Bootstrap · Tailwind | Sites et applications web, du front au back |
+| **Bases de données** | MySQL · PostgreSQL · PL/pgSQL | Modélisation, requêtes et procédures stockées |
+| **Applicatif & mobile** | Java (Swing) · Android Studio · C# · Python · C | Programmation objet, applications de bureau et Android |
+| **Système & outils** | Linux · Bash · Docker · Git · VS Code · Laragon | Environnement de dev, déploiement et versionnage |
+| **Création & 3D** | Fusion 360 · Unity · Scratch | Modélisation 3D et prototypes de jeux |
+
+</details>
 
 <br>
 
